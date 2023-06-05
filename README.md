@@ -20,4 +20,5 @@
 
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariePivette)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariePivette&theme=default)]()
+[![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mariePivette&theme=default)]()
