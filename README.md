@@ -1,6 +1,6 @@
 ## Hi !
 
-### I'm Ana, I'm Web Developer & Scrum Master. 
+### I'm Marie, I'm a student in Master 1 Software Development and Information System. 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marie-pivette)
 
 ## Skills 
